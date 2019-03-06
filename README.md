@@ -1,13 +1,14 @@
 # Machine learning training
 
-Author: Roberto Lima
+**Author: Roberto Lima**
 
-Training of machine learning using Python.
+Machine Learning Training using Python.
+
+Linear Regression
 
 This training was developed within the Jupyter Notebook (Anaconda)
 
 https://jupyter.org/install
-
 
 Libraries used in this training:
 
@@ -15,5 +16,4 @@ Libraries used in this training:
 - Pandas
 - Matplotlib
 - Seaborn
-
 - Sklearn
